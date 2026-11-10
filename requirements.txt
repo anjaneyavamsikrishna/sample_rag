@@ -1,0 +1,14 @@
+pymupdf
+python-docx
+pandas
+numpy
+sentence-transformers
+qdrant-client
+python-dotenv
+openai
+streamlit
+fastapi
+uvicorn[standard]
+python-multipart
+httpx
+pytest

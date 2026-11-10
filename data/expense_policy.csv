@@ -1,0 +1,17 @@
+category,daily_limit_usd,approval_required,receipt_required_above_usd,notes
+Meals - domestic,40,No,15,Alcohol is not reimbursable
+Meals - international,60,No,25,Per person per day
+Hotel - domestic,180,No,0,Book through the TravelDesk portal
+Hotel - international,260,Yes,0,Manager approval needed before booking
+Taxi / rideshare,40,No,10,Prefer rideshare apps where available
+Airfare - domestic economy,400,No,0,Book at least 14 days ahead
+Airfare - international economy,1500,Yes,0,Business class not permitted under 8 hours
+Client entertainment,150,Yes,0,Finance approval required; list attendees
+Conference registration,800,Yes,0,Must relate to current role
+Training and courses,500,Yes,0,Approved by department head
+Office supplies,50,No,20,Order via procurement where possible
+Mobile phone reimbursement,25,No,0,Monthly cap; business use only
+Car rental,70,Yes,0,Compact class only
+Parking,15,No,5,Airport parking is not reimbursed
+Visa and travel documents,300,Yes,0,Reimbursed once approved by HR
+Laundry (trips over 5 days),20,No,10,Only for trips longer than 5 days
